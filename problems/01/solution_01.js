@@ -1,17 +1,8 @@
-function getCount(str) {
-    let vowelsCount = 0
-    const vowels = ['a','e','i','o','u'];
-    let len = str.length;
+// return masked string
+function maskify(cc) {
+    let final= cc.replace(/.(?=.{4,}$)/g,'#');
+    return final;
+}
 
-    while (len--) {
-        if(vowels.includes(str.charAt(len))){
-            vowelsCount += 1;
-        }
-    }
-        
-    return vowelsCount;
-  }
-
-  let word = 'aeiou'
-
-console.log('The word '+ word+ ' has' + getCount(word)+' vowels');  
+let cc = 'bruce wayne is batman';
+console.log(maskify(cc));  
