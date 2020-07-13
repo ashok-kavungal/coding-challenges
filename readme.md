@@ -7,3 +7,4 @@ These are my solutions to few Interview questions i picked up from internet and 
 |  # | Description               | Solution                               |
 |----|---------------------------|----------------------------------------|
 | 01 | [Maskify Credentials in browser](problems/01) | [solution](problems/01/solution_01.js)|
+| 02 | [Job Scheduler](problems/02) | [solution](problems/02/solution_02.js)|
