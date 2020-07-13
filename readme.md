@@ -1,5 +1,9 @@
-Return the number (count) of vowels in the given string.
+# Daily coding problem
 
-We will consider a, e, i, o, and u as vowels for this Kata.
+These are my solutions to few Interview questions i picked up from internet and dailycodingchallenge.com, a great resource to practice coding interviews.
 
-The input string will only consist of lower case letters and/or spaces.
+## Problems
+
+|  # | Description               | Solution                               |
+|----|---------------------------|----------------------------------------|
+| 01 | [write question heading here](problems/01) | [solution](problems/01/solution_01.js)|
