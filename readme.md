@@ -11,3 +11,4 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 03 | [Freequency counter](problems/03) | [solution](problems/03/solution_03.js)|
 | 04 | [Check Anagram or not](problems/04) | [solution](problems/04/solution_04.js)|
 | 05 | [First pair to give sum 0](problems/05) | [solution](problems/05/solution_05.js)|
+| 06 | [Unique values](problems/06) | [solution](problems/06/solution_06.js)|
