@@ -13,3 +13,4 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 05 | [First pair to give sum 0](problems/05) | [solution](problems/05/solution_05.js)|
 | 06 | [Unique values](problems/06) | [solution](problems/06/solution_06.js)|
 | 07 | [First higest consecutive sum in array](problems/07) | [solution](problems/07/solution_07.js)|
+| 07 | [Fibonocci series](problems/08) | [solution](problems/08/solution_08.js)|
