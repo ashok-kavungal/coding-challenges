@@ -15,3 +15,6 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 07 | [First higest consecutive sum in array](problems/07) | [solution](problems/07/solution_07.js)|
 | 08 | [Fibonocci series](problems/08) | [solution](problems/08/solution_08.js)|
 | 09 | [String reversal using recursion](problems/09) | [solution](problems/09/solution_09.js)|
+| 10 | [Check palindrome or not](problems/10) | [solution](problems/10/solution_10.js)|
+| 11 | [Recursion problem](problems/11) | [solution](problems/11/solution_11.js)|
+| 12 | [Flatten Array](problems/12) | [solution](problems/12/solution_12.js)|
