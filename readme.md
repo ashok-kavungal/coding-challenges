@@ -23,3 +23,4 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 15 | [Capitalize array of strings](problems/15) | [solution](problems/15/solution_15.js)|
 | 16 | [Stringify numbers in nested objects](problems/16) | [solution](problems/16/solution_16.js)|
 | 17 | [collect strings from nested objects using recursion](problems/17) | [solution](problems/17/solution_17.js)|
+| 18 | [Implement Binary search in sorted array](problems/18) | [solution](problems/18/solution_18.js)|
