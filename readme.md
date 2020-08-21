@@ -21,3 +21,5 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 13 | [Capitalize Array of strings](problems/13) | [solution](problems/13/solution_13.js)|
 | 14 | [Calculate sum of even numbers in nested objects](problems/14) | [solution](problems/14/solution_14.js)|
 | 15 | [Capitalize array of strings](problems/15) | [solution](problems/15/solution_15.js)|
+| 16 | [Stringify numbers in nested objects](problems/16) | [solution](problems/16/solution_16.js)|
+| 17 | [collect strings from nested objects using recursion](problems/17) | [solution](problems/17/solution_17.js)|
