@@ -18,3 +18,5 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 10 | [Check palindrome or not](problems/10) | [solution](problems/10/solution_10.js)|
 | 11 | [Recursion problem](problems/11) | [solution](problems/11/solution_11.js)|
 | 12 | [Flatten Array](problems/12) | [solution](problems/12/solution_12.js)|
+| 13 | [Capitalize Array of strings](problems/13) | [solution](problems/13/solution_13.js)|
+| 14 | [Calculate sum of even numbers in nested objects](problems/14) | [solution](problems/14/solution_14.js)|
