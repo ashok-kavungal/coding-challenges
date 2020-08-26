@@ -30,5 +30,7 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 22 | [Implement merge sort ](problems/22) | [solution](problems/22/solution_22.js)|
 | 23 | [Implement quick sort ](problems/23) | [solution](problems/23/solution_23.js)|
 | 24 | [Implement radix sort ](problems/24) | [solution](problems/24/solution_24.js)|
-| 25 | [Implement doubly linked list](problems/24) | [solution](problems/24/solution_24.js)|
+| 25 | [Implement doubly linked list](problems/25) | [solution](problems/25/solution_25.js)|
+| 26 | [Implement a stack data structure](problems/26) | [solution](problems/26/solution_26.js)|
+| 27 | [Implement a queue data structure](problems/27) | [solution](problems/27/solution_27.js)|
 
