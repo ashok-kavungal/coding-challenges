@@ -25,3 +25,4 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 17 | [collect strings from nested objects using recursion](problems/17) | [solution](problems/17/solution_17.js)|
 | 18 | [Implement Binary search in sorted array](problems/18) | [solution](problems/18/solution_18.js)|
 | 19 | [Implement Bubble Sort](problems/19) | [solution](problems/19/solution_19.js)|
+| 20 | [Implement Selection Sort](problems/20) | [solution](problems/20/solution_20.js)|
