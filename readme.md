@@ -26,3 +26,4 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 18 | [Implement Binary search in sorted array](problems/18) | [solution](problems/18/solution_18.js)|
 | 19 | [Implement Bubble Sort](problems/19) | [solution](problems/19/solution_19.js)|
 | 20 | [Implement Selection Sort](problems/20) | [solution](problems/20/solution_20.js)|
+| 21 | [Implement Singly Linked-list ](problems/21) | [solution](problems/21/solution_21.js)|
