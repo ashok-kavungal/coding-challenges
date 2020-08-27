@@ -34,4 +34,5 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 26 | [Implement a stack data structure](problems/26) | [solution](problems/26/solution_26.js)|
 | 27 | [Implement a queue data structure](problems/27) | [solution](problems/27/solution_27.js)|
 | 28 | [Binary search Tree](problems/28) | [solution](problems/28/solution_28.js)|
-
+| 29 | [Breadth first search](problems/29) | [solution](problems/29/solution_29.js)|
+| 30 | [Depth first search](problems/30) | [solution](problems/30/solution_30.js)|
