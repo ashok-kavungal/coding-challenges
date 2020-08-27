@@ -1,0 +1,2 @@
+Împlement a binary search tree and write three funcions find, contains and insert.</br>
+Insert funciton to add a value to bst and find to return the node if the value exist in the bst. The contain function should return boolean values as result if any node of the bst holds the value passed.

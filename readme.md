@@ -33,4 +33,5 @@ These are my solutions to few Interview questions i picked up from internet and 
 | 25 | [Implement doubly linked list](problems/25) | [solution](problems/25/solution_25.js)|
 | 26 | [Implement a stack data structure](problems/26) | [solution](problems/26/solution_26.js)|
 | 27 | [Implement a queue data structure](problems/27) | [solution](problems/27/solution_27.js)|
+| 28 | [Binary search Tree](problems/28) | [solution](problems/28/solution_28.js)|
 
