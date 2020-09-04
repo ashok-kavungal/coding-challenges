@@ -1,6 +1,6 @@
 # Daily coding problem
 
-These are my solutions to few Interview questions i picked up from internet and dailycodingchallenge.com, a great resource to practice coding interviews.
+A repo where I update core coding algorithms and random interview questions.
 
 ## Problems
 
