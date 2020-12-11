@@ -37,3 +37,4 @@ A repo where I update core coding algorithms and random interview questions.
 | 29  | [Breadth first search](problems/29)                                | [solution](problems/29/solution_29.js) |
 | 30  | [Depth first search](problems/30)                                  | [solution](problems/30/solution_30.js) |
 | 31  | [Two Sum](problems/31)                                             | [solution](problems/31/solution_31.js) |
+| 32  | [Container with most water](problems/32)                           | [solution](problems/32/solution_32.js) |
