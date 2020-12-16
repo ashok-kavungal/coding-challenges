@@ -39,3 +39,4 @@ A repo where I update core coding algorithms and random interview questions.
 | 31  | [Two Sum](problems/31)                                             | [solution](problems/31/solution_31.js) |
 | 32  | [Container with most water](problems/32)                           | [solution](problems/32/solution_32.js) |
 | 33  | [Search in a nested object](problems/33)                           | [solution](problems/33/solution_33.js) |
+| 34  | [ Notes to coins ](problems/34)                                    | [solution](problems/34/solution_34.js) |
